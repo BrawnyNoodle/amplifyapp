@@ -41,5 +41,12 @@
         }
       }
     }
+  },
+  "storage": {
+    "dynamoamplifyapp": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": []
+    }
   }
 }

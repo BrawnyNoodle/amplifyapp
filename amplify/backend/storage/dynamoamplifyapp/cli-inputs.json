@@ -1,0 +1,12 @@
+{
+  "resourceName": "dynamoamplifyapp",
+  "policyUUID": "d682e44e",
+  "bucketName": "amplifybucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
