@@ -69,10 +69,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-This is the iAM user for amplify
-
-Username: amplify-F2AeS
-
-Access Key ID: AKIATCTSTOXIHEGGNGVE
-
-Secret Access key: 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
